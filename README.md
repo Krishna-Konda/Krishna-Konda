@@ -36,10 +36,6 @@ I'm a passionate web developer from **Bhiwandi, Maharashtra, India**. I love bui
 
 ---
 
-## 📊 GitHub Stats
-
-[![Krishan-Konda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-Konda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/Krishna-Konda)
-
 [![Krishan-Konda's Streak](https://nirzak-streak-stats.vercel.app/?user=Krishna-Konda&theme=dark&hide_border=false)](https://github.com/Krishna-Konda)
 
 ---
