@@ -40,12 +40,6 @@ I'm a passionate web developer from **Bhiwandi, Maharashtra, India**. I love bui
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Krishna-Konda&theme=dark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-konda)
