@@ -36,10 +36,6 @@ I'm a passionate web developer from **Bhiwandi, Maharashtra, India**. I love bui
 
 ---
 
-[![Krishan-Konda's Streak](https://nirzak-streak-stats.vercel.app/?user=Krishna-Konda&theme=dark&hide_border=false)](https://github.com/Krishna-Konda)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-konda)
