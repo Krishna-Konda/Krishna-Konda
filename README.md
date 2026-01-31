@@ -1,4 +1,4 @@
-# Hi 👋, I'm Krishan-Konda
+# Hi 👋, I'm Krishna-Konda
 
 ## 💻 Full-Stack Developer | Building Amazing Web Applications
 
