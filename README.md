@@ -14,6 +14,8 @@
 
 </div>
 
+<div align="center">
+
 **FRONTEND**
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
@@ -22,19 +24,34 @@
 [![CSS3](https://skillicons.dev/icons?i=css3)](https://www.w3.org/Style/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 
+</div>
+
+<div align="center">
+
 **BACKEND**
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 
+</div>
+
+<div align="center">
+
 **DATABASE**
 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+
+</div>
+
+<div align="center">
 
 **DEVOPS & TOOLS**
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+
+</div>
 
 ---
 
