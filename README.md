@@ -4,11 +4,15 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 **LANGUAGES**
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+
+</div>
 
 **FRONTEND**
 
