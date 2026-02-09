@@ -40,8 +40,7 @@
 **DATABASE**
 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)
 </div>
 
 <div align="center">
