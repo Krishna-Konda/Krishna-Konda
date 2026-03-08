@@ -4,9 +4,9 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend Development ✨
-
 <div align="center">
+
+### Frontend Development ✨
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=282C34)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -16,28 +16,16 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=282C34)](https://tailwindcss.com/)
 
-</div>
-
 ### Backend & Runtime ⚙️
-
-<div align="center">
 
 [![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282C34)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=282C34)](https://expressjs.com/)
 
-</div>
-
 ### Database 🗄️
-
-<div align="center">
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282C34)](https://www.mongodb.com/)
 
-</div>
-
 ### Tools & Platforms 🔧
-
-<div align="center">
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/)
